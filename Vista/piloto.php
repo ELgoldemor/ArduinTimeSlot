@@ -10,9 +10,9 @@
 <div class="container">
         <header class="d-flex justify-content-center py-3">
             <ul class="nav nav-pills">
-                <li class="nav-item"><a href="#" class="nav-link active">Carrera</a></li>
-                <li class="nav-item"><a href="#" class="nav-link" href="../pagina/Vista/piloto.php">Ingresar Piloto</a></li>
-                <li class="nav-item"><a href="#" class="nav-link">Información</a></li>
+                <li class="nav-item"><a  class="nav-link " href="ListaPilotos.php">Lista de Pilotos</a></li>
+                <li class="nav-item"><a  class="nav-link active" href="piloto.php">Ingresar Piloto</a></li>
+                <li class="nav-item"><a href="Carrera.php" class="nav-link">Carrera</a></li>
                 <li class="nav-item"><a href="#" class="nav-link">Proyecto</a></li>
             </ul>
         </header>
